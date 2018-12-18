@@ -1,8 +1,7 @@
 git gittest
 ¸øiËû
-<<<<<<< HEAD
+
 what do you mean?
 something.
-=======
-what do you mean?
->>>>>>> master
+
+
